@@ -1,2 +1,2 @@
 # discord-mutifix
-fixes bultipple errors in disord and better discord
+fixes multiple errors in disord and better discord
